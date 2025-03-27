@@ -1,5 +1,5 @@
 
-![logo]()
+![logo](https://github.com/PrinceTiwari25/PrinceTiwari25/blob/main/github-header-image%20(1).png)
 
 
 <h1 align="center">Hi 👋, I'm Prince Tiwari</h1>
