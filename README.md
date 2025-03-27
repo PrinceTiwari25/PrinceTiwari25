@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img align="right" alt="coding" width=300 boder-radius=10 src="https://media1.tenor.com/m/oAnHuHkkVCwAAAAd/zoro-one-piece-one-piece.gif">
+  <img align="right" alt="coding" width=300 boder-radius=10 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM4NWdjZ2Z4NmM5cWowMzBqb2cyOHpwaGw3YXZ1eWhzZm1vNTNwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8pzzC73HBeKmQ/giphy.gif">
 <a href="https://linkedin.com/in/prince2511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince2511" height="30" width="40" /></a>
 <a href="https://kaggle.com/princetiwari25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="princetiwari25" height="30" width="40" /></a>
 </p
