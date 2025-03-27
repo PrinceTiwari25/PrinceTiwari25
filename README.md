@@ -16,8 +16,7 @@
 <a href="https://linkedin.com/in/prince2511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince2511" height="30" width="40" /></a>
 <a href="https://kaggle.com/princetiwari25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="princetiwari25" height="30" width="40" /></a>
 </p
-  <img align="right" alt="coding" width=300 boder-radius=10 src="![Uploading tenor.gif…]()
-">
+  <img align="right" alt="coding" width=300 boder-radius=10 src="![tenor](https://github.com/user-attachments/assets/391d22cf-8d6e-4042-8a5a-b2c1b0f15dab)">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
