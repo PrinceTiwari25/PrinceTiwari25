@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princetiwari25&label=Profile%20views&color=0e75b6&style=flat" alt="princetiwari25" /> </p>
 
-- 🔭 I’m currently working on **managing business for shopkeeper**
+
 
 - 📫 How to reach me **princetiwari1366@gmail.com**
 
