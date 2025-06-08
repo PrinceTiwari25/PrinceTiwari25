@@ -2,7 +2,7 @@
 ![logo](https://github.com/PrinceTiwari25/PrinceTiwari25/blob/main/github-header-image%20(1).png)
 
 
-<h1 align="center">Hi 👋, I'm Prince Tiwari</h1>
+<h1 align="center">Hi 👋, I'm Prince Tiwary</h1>
 <h3 align="center">i am first year developer passionate for coding and eager to learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princetiwari25&label=Profile%20views&color=0e75b6&style=flat" alt="princetiwari25" /> </p>
