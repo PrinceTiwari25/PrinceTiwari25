@@ -1,27 +1,99 @@
-
 ![logo](https://github.com/PrinceTiwari25/PrinceTiwari25/blob/main/github-header-image%20(1).png)
 
-
 <h1 align="center">Hi 👋, I'm Prince Tiwary</h1>
-<h3 align="center">i am Third year developer passionate for coding and eager to learn</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princetiwari25&label=Profile%20views&color=0e75b6&style=flat" alt="princetiwari25" /> </p>
+<p align="center">
+  <b>B.Tech CSE | 3rd Year, 5th Semester</b><br>
+  Software Development • Data Structures & Algorithms • AI/ML
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princetiwari25&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
+---
 
-- 📫 How to reach me **princetiwari1366@gmail.com**
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <img align="right" alt="coding" width=300 boder-radius=10 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5uY3VqYjZ0a3BoYTgxMXM4YmdkdHZtdHVjNng3ZnR0MzFhYTZpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEQoQix9hC/giphy.gif">
-<a href="https://linkedin.com/in/prince2511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince2511" height="30" width="40" /></a>
-<a href="https://kaggle.com/princetiwari25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="princetiwari25" height="30" width="40" /></a>
-</p
+### 👨‍💻 About Me
 
+🎓 **B.Tech Computer Science & Engineering**  
+Currently in **3rd Year, 5th Semester**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+💻 Interested in **Software Development & Problem Solving**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princetiwari25&show_icons=true&locale=en&layout=compact" alt="princetiwari25" /></p>
+🧠 Currently focused on **Data Structures & Algorithms with Java**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princetiwari25&show_icons=true&locale=en" alt="princetiwari25" /></p>
+🤖 Exploring **Artificial Intelligence & Machine Learning**
+
+🚀 Consistently practicing, building projects, and improving my technical skills
+
+📫 **Email:** princetiwari1366@gmail.com
+
+### 🔗 Connect
+
+<a href="https://linkedin.com/in/prince2511" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="42"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://kaggle.com/princetiwari25" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="32" width="42"/>
+</a>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5uY3VqYjZ0a3BoYTgxMXM4YmdkdHZtdHVjNng3ZnR0MzFhYTZpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DSxKEQoQix9hC/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">🛠️ Languages & Tools</h3>
+
+<p align="center">
+
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<table align="center">
+<tr>
+
+<td>
+<img src="https://github-readme-stats.shion.dev/api?username=PrinceTiwari25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</td>
+
+<td>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrinceTiwari25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</td>
+
+</tr>
+</table>
